@@ -40,5 +40,5 @@ wget "https://tools.ntaheij.dev/b375k.php" -O b375k.php
 Scanner is a tool to scan your network for computers with open ports.
 > [scanner.py](https://tools.ntaheij.dev/scanner.py)
 ```sh
-wget "https://tools.ntaheij.dev/scanner.py" -O scanner.py; chmod 700 scannerpy; ./scanner.py
+wget "https://tools.ntaheij.dev/scanner.py" -O scanner.py; chmod 700 scanner.py; ./scanner.py
 ```

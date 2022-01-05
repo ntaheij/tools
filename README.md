@@ -1,6 +1,15 @@
 # tools
 
-My most used tools for CTF:
+My most used tools for CTF.
+
+# Table of Contents
+  - [Cheatsheets](#cheatsheets)
+  - [Linpeas](#linpeas)
+  - [Winpeas](#winpeas)
+  - [Linenum](#linenum)
+  - [Linux Smart Enumaration](#linux-smart-enumaration)
+  - [B375K](#b375k)
+  - [Scanner](#scanner)
 
 # Cheatsheets
 Cheatsheets for all kind of tools.

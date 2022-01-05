@@ -28,7 +28,7 @@ You may then wish to do any/all of the following:
 
 This flowchart provides a high-level overview of the steps involved:
 
-![[flowchart_methodology.png]]
+![Methodology Flowchart](./../../imgs/flowchart_methodology.png)
 
 ## High Level Steps
 

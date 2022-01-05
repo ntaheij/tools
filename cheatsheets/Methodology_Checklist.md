@@ -365,12 +365,6 @@ Navigate to `/robots.txt` to check for any disallowed pages.
 
 ### What Powers the Site?
 
-Use `curl` to read the `X-Powered-By` header:
-
-```bash
-$ curl -v [TARGET]
-```
-
 #### Checking Extensions
 
 Try to visit the following:

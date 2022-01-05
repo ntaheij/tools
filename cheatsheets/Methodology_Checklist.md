@@ -142,7 +142,7 @@ Use this enumeration to do initial scans of the network - the hosts & services d
 
 If you have both a domain and a public IP address, scan both - they may have different results, especially if the domain is protected by something like cloudflare.
 
-Scan internal IP addresses with [[nmap]] if you have access to the internal network.
+Scan internal IP addresses with [nmap](Common_Tools/nmap.md) if you have access to the internal network.
 
 ### Scan a Domain Name
 
@@ -407,7 +407,7 @@ Use flags such as `-e` for an exact match, `--exclude="term"` to not match certa
 - Can you register for an account?
 	- Can you change any hidden fields to manipulate registration?
 - Can you upload files?
-	- Are there any restrictions on the file type? Are they server-side or client-side? See [[File Upload]]
+	- Are there any restrictions on the file type? Are they server-side or client-side? See [File Upload](./Web_Hacking/File_Upload.md)
 - Are there any experiemental features, or things that are not fully implemented/under maintenance?
 	- They may have weaker security
 	- Look for beta, maintenance, development directories and subdomains
@@ -425,7 +425,8 @@ Has anything important or sensitive been removed?
 Get a feel for the site or site owners' public profile:
 - search the name of the company or site owner
 	- do they have a github? could it have site source in it?
-- find usernames on the site - run them through [nixintel.info](https://nixintel.info/)
+- find usernames on the site - run them through [nixintel.info](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list)
+- 
 - Run `exiftools` on images
 
 ## SMB Enumeration
@@ -527,7 +528,7 @@ On target:
 $ nc -w 3 [HOST_IP] [PORT] < /path/to/file
 ```
 
-See more at [[netcat]]
+See more at [netcat](./Common_Tools/netcat.md)
 
 #### SMB
 

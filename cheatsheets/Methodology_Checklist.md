@@ -301,7 +301,7 @@ If you find a service running on the target, and you haven't seen it before, sea
 
 ## Automated Web Enumeration
 
-Before running Gobuster, check [[Methodology Checklist#What Powers the Site|what powers the site]].
+Before running Gobuster, check [What Powers the Site](#what-powers-the-site).
 
 ### Gobuster
 
@@ -364,6 +364,12 @@ Look for:
 Navigate to `/robots.txt` to check for any disallowed pages.
 
 ### What Powers the Site?
+
+Use `curl` to read the `X-Powered-By` header:
+
+```bash
+$ curl -v [TARGET]
+```
 
 #### Checking Extensions
 

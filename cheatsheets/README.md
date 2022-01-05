@@ -3,6 +3,7 @@
 My most used cheatsheets for CTF.
 
 # Table of Contents
+  - [Methodology Checklist](#methodology-checklist)
   - [Common Tools](#common-tools)
   - [Enumeration](#enumeration)
   - [Linux](#linux)
@@ -11,6 +12,9 @@ My most used cheatsheets for CTF.
   - [Web Hacking](#web-hacking)
   - [Windows](#windows)
   - [Misc](#misc)
+
+# Methodology Checklist
+> [Methodology Checklist](./Methodology_Checklist.md)
 
 # Common Tools
 > [Gobuster](./Common_Tools/Gobuster.md)
@@ -65,5 +69,3 @@ My most used cheatsheets for CTF.
 > [Aliases](./Misc/Aliases.md)
 
 > [Fundemantal Skills](./Misc/Fundamental_Skills.md)
-
-> [Methodology Checklist](./Misc/Methodology_Checklist.md)

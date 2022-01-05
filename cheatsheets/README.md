@@ -62,6 +62,8 @@ My most used cheatsheets for CTF.
 > [Windows Shells](./Windows/Windows_Shells.md)
 
 # Misc
-> [Aliases](./Aliases.md)
+> [Aliases](./Misc/Aliases.md)
 
-> [Fundemantal Skills](./Fundamental_Skills.md)
+> [Fundemantal Skills](./Misc/Fundamental_Skills.md)
+
+> [Methodology Checklist](./Misc/Methodology_Checklist.md)

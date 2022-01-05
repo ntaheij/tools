@@ -1,4 +1,4 @@
-# cheatsheets
+# Cheatsheets
 
 My most used cheatsheets for CTF.
 
@@ -13,55 +13,55 @@ My most used cheatsheets for CTF.
   - [Misc](#misc)
 
 # Common Tools
-> [Gobuster](./Common%20Tools/Gobuster.md)
+> [Gobuster](./Common_Tools/Gobuster.md)
 
-> [netcat](./Common%20Tools/netcat.md)
+> [netcat](./Common_Tools/netcat.md)
 
-> [nmap](./Common%20Tools/nmap.md)
+> [nmap](./Common_Tools/nmap.md)
 
-> [smbclient](./Common%20Tools/smbclient.md)
+> [smbclient](./Common_Tools/smbclient.md)
 
-> [smbmap](./Common%20Tools/smbmap.md)
+> [smbmap](./Common_Tools/smbmap.md)
 
 # Enumeration
-> [Docker Enumaration](./Enumeration/Docker%20Enumeration.md)
+> [Docker Enumaration](./Enumeration/Docker_Enumeration.md)
 
-> [Linux Enumeration](./Enumeration/Linux%20Enumeration.md)
+> [Linux Enumeration](./Enumeration/Linux_Enumeration.md)
 
 > [Reconnaisance](./Enumeration/Reconnaisance.md)
 
 # Linux
-> [Basic Linux Commands](./Linux/Basic%20Linux%20Commands.md)
+> [Basic Linux Commands](./Linux/Basic_Linux_Commands.md)
 
-> [Linux Misc](./Linux/Linux%20Misc.md)
+> [Linux Misc](./Linux/Linux_Misc.md)
 
-> [Linux Networking](./Linux/Linux%20Networking.md)
+> [Linux Networking](./Linux/Linux_Networking.md)
 
-> [Linux Shells](./Linux/Linux%20Shells.md)
+> [Linux Shells](./Linux/Linux_Shells.md)
 
 # Networking
-> [Common Ports](./Networking/Common%20Ports.md)
+> [Common Ports](./Networking/Common_Ports.md)
 
 # Password Cracking
-> [Creating a Hashfile](./Password%20Cracking/Creating%20a%20Hashfile.md)
+> [Creating a Hashfile](./Password_Cracking/Creating_a_Hashfile.md)
 
-> [Generating a Wordlist](./Password%20Cracking/Generating%20a%20Wordlist.md)
+> [Generating a Wordlist](./Password_Cracking/Generating_a_Wordlist.md)
 
-> [Hashcat](./Password%20Cracking/Hashcat.md)
+> [Hashcat](./Password_Cracking/Hashcat.md)
 
-> [Indentifying Hashes](./Password%20Cracking/Identifying%20Hashes.md)
+> [Indentifying Hashes](./Password_Cracking/Identifying_Hashes.md)
 
-> [John the Ripper](./Password%20Cracking/John%20the%20Ripper.md)
+> [John the Ripper](./Password_Cracking/John_the_Ripper.md)
 
 # Web Hacking
-> [Deserilisation](./Web%20Hacking/Deserialisation.md)
+> [Deserilisation](./Web_Hacking/Deserialisation.md)
 
-> [File Upload](./Web%20Hacking/File%20Upload.md)
+> [File Upload](./Web_Hacking/File_Upload.md)
 
 # Windows
-> [Windows Shells](./Windows/Windows%20Shells.md)
+> [Windows Shells](./Windows/Windows_Shells.md)
 
 # Misc
 > [Aliases](./Aliases.md)
 
-> [Fundemantal Skills](./Fundamental%20Skills.md)
+> [Fundemantal Skills](./Fundamental_Skills.md)

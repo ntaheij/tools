@@ -46,6 +46,19 @@ My most used cheatsheets for CTF.
 # Networking
 > [Common Ports](./Networking/Common_Ports.md)
 
+# OSINT
+> [Sock Puppets](./OSINT/Sock_Puppets.md)
+
+> [Tools](./OSINT/Tools.md)
+
+> [Searching](./OSINT/Searching.md)
+
+> [Images](./OSINT/Images.md)
+
+> [Passwords](./OSINT/Passwords.md)
+
+> [Online Presence](./OSINT/Online_Presence.md)
+
 # Password Cracking
 > [Creating a Hashfile](./Password_Cracking/Creating_a_Hashfile.md)
 

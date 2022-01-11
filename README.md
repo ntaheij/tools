@@ -55,3 +55,10 @@ Scanner is a tool to scan your network for computers with open ports.
 ```sh
 wget "./scanner.py" -O scanner.py; chmod 700 scanner.py; ./scanner.py
 ```
+
+# SumRecon
+SumRecon is a tool for web recon.
+> [sumrecon.py](./sumrecon.sh)
+```sh
+wget "./sumrecon.sh" -O sumrecon.sh; chmod 700 sumrecon.sh; sudo ./sumrecon.sh
+```

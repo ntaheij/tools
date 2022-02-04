@@ -2,7 +2,7 @@
 
 My most used cheatsheets for CTF.
 
-# Table of Contents
+## Table of Contents
   - [Methodology Checklist](#methodology-checklist)
   - [Common Tools](#common-tools)
   - [Enumeration](#enumeration)
@@ -12,11 +12,12 @@ My most used cheatsheets for CTF.
   - [Web Hacking](#web-hacking)
   - [Windows](#windows)
   - [Misc](#misc)
+  - [External References](#external-references)
 
-# Methodology Checklist
+## Methodology Checklist
 > [Methodology Checklist](./Methodology_Checklist.md)
 
-# Common Tools
+## Common Tools
 > [Gobuster](./Common_Tools/Gobuster.md)
 
 > [netcat](./Common_Tools/netcat.md)
@@ -27,14 +28,14 @@ My most used cheatsheets for CTF.
 
 > [smbmap](./Common_Tools/smbmap.md)
 
-# Enumeration
+## Enumeration
 > [Docker Enumaration](./Enumeration/Docker_Enumeration.md)
 
 > [Linux Enumeration](./Enumeration/Linux_Enumeration.md)
 
 > [Reconnaisance](./Enumeration/Reconnaisance.md)
 
-# Linux
+## Linux
 > [Basic Linux Commands](./Linux/Basic_Linux_Commands.md)
 
 > [Linux Misc](./Linux/Linux_Misc.md)
@@ -43,10 +44,10 @@ My most used cheatsheets for CTF.
 
 > [Linux Shells](./Linux/Linux_Shells.md)
 
-# Networking
+## Networking
 > [Common Ports](./Networking/Common_Ports.md)
 
-# OSINT
+## OSINT
 > [Sock Puppets](./OSINT/Sock_Puppets.md)
 
 > [Tools](./OSINT/Tools.md)
@@ -59,7 +60,7 @@ My most used cheatsheets for CTF.
 
 > [Online Presence](./OSINT/Online_Presence.md)
 
-# Password Cracking
+## Password Cracking
 > [Creating a Hashfile](./Password_Cracking/Creating_a_Hashfile.md)
 
 > [Generating a Wordlist](./Password_Cracking/Generating_a_Wordlist.md)
@@ -70,15 +71,18 @@ My most used cheatsheets for CTF.
 
 > [John the Ripper](./Password_Cracking/John_the_Ripper.md)
 
-# Web Hacking
+## Web Hacking
 > [Deserilisation](./Web_Hacking/Deserialisation.md)
 
 > [File Upload](./Web_Hacking/File_Upload.md)
 
-# Windows
+## Windows
 > [Windows Shells](./Windows/Windows_Shells.md)
 
-# Misc
+## Misc
 > [Aliases](./Misc/Aliases.md)
 
 > [Fundemantal Skills](./Misc/Fundamental_Skills.md)
+
+## External References
+> [S0cM0nkey Security Reference Guide](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/)
